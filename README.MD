@@ -30,6 +30,10 @@ textDemo
 -----------------------
 this is an example, NetEase news.i get news content by props in react native and show it by Text component. 
 
+viewDemo
+-----------------------
+This is a layout of header with View.
+
 
 
 
