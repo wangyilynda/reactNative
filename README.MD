@@ -34,8 +34,9 @@ viewDemo
 -----------------------
 This is a layout of header with View.
 
-
-
+touchableDemo
+-----------------------
+touchableOpacity is for button and textInput is for input.when user click the button, the message inside TextInput will show.
 
 
 
