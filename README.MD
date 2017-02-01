@@ -26,7 +26,9 @@ listViewDemo
 -----------------------
 this one is for two demoes, one is basic use and another is movie list with ListView and image components. 
 
-
+textDemo
+-----------------------
+this is an example, NetEase news.i get news content by props in react native and show it by Text component. 
 
 
 
