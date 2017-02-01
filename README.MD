@@ -17,3 +17,7 @@ this project include two demoes, one for normal navigator, another for navigator
 TabBarIOS
 -----------------------
 This demo is for component TabBarIOS
+
+scrollViewDemo
+-----------------------
+this one is for two demoes, one is basic use with refreshControl and another is movie  list with scrollview and image components. 
