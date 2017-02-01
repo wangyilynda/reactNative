@@ -21,3 +21,15 @@ This demo is for component TabBarIOS
 scrollViewDemo
 -----------------------
 this one is for two demoes, one is basic use with refreshControl and another is movie  list with scrollview and image components. 
+
+listViewDemo
+-----------------------
+this one is for two demoes, one is basic use and another is movie list with ListView and image components. 
+
+
+
+
+
+
+
+
