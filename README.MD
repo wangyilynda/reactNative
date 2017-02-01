@@ -14,3 +14,6 @@ navigatorTest
 -----------------------
 this project include two demoes, one for normal navigator, another for navigator with value
 
+TabBarIOS
+-----------------------
+This demo is for component TabBarIOS
