@@ -2,6 +2,10 @@ reactNative
 =======================
 this is a project including some demos for react native to learn
 
+NOTICE
+=======================
+Please download node_modules and add into these projects before run these projects
+
 hello
 -----------------------
 this is a simple demo of flexbox
