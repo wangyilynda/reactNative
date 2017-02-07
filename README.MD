@@ -38,5 +38,11 @@ touchableDemo
 -----------------------
 touchableOpacity is for button and textInput is for input.when user click the button, the message inside TextInput will show.
 
+DoubanProject
+-----------------------
+based on douban platform,i can get information for books and movies and show on cellphone app.a variety of views have been applied.
 
-
+GoShopping
+-----------------------
+this project demonstrates how to compose a business app based on what i have learnt.Four tabs for Home page,Merchant page,Mine page and More page show
+different views and functions.compared with last one,this one is bigger and more complexed for designed logic.besides,adapation for a wide range of cellphone is better.
